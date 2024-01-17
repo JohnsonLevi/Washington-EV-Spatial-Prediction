@@ -1,8 +1,6 @@
 # Washington-EV-Spatial-Prediction
 
-Hello All
-
-This is the final Project that I completed for Spatial Statistics at Colorado School of Mines
+Hello All, This is the final Project that I completed for Spatial Statistics at Colorado School of Mines. This project was done in collaboration with Drew Cornmesser and Collin Short. 
 
 # Project
 
